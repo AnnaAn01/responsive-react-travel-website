@@ -8,7 +8,7 @@
 
 .hero-container {
   /* This is essentially where you put your image, if you weren't using a video (the above one) */
-  background: url("../../src/images/img-home.jpg") center center/cover no-repeat; /* This is a shortcut with  background. */
+  background: url("../../src/images/img-12.jpg") center center/cover no-repeat; /* This is a shortcut with  background. */
   /* Essentially, insteadof saying background-size, background-position, etc, we can just do it all on this one line. */
   /* background: url("../images/img-home.jpg");*/
   height: 100vh;
