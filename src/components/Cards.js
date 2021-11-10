@@ -24,19 +24,19 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/img-3.jpg"
+              src="images/img-15.jpg"
               text="Set Sail in the Atlantic Ocean visiting uncharted Waters"
               label="Mystery"
               path="./services"
             />
             <CardItem
-              src="images/img-4.jpg"
+              src="images/img-16.jpg"
               text="Experience football on Top of the Himalayan Mountains"
               label="Adventure"
               path="./products"
             />
             <CardItem
-              src="images/img-8.jpg"
+              src="images/img-17.jpg"
               text="Ride through the Sahara Desert on a guided camel tour"
               label="Adrenaline"
               path="./sign-up"
